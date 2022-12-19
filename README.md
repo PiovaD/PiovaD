@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gifhttps://tenor.com/view/hello-world-gif-18564330"></p>
+<p align="center"> <img height="200" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gifhttps://tenor.com/view/hello-world-gif-18564330"></p>
 <h1 align="center">Hi 👋, I'm Dario</h1>
 <h3 align="center">A Junior Full-stack developer</h3>
 
