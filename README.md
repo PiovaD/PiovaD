@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dario</h1>
 <h3 align="center">A Junior Full-stack developer</h3>
 
-- 🌱 I’m currently learning **Angular, Spring boot, SQL**
-
 - 👨‍💻 My Code-learning at <a href="https://github.com/PiovaD/fs0422-Dario-Piovani">EPICODE</a> 
 
 - 📫 How to reach me **dario.piovani95@gmail.com**
