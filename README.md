@@ -1,6 +1,6 @@
 <p align="center"> <img height="200" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gifhttps://tenor.com/view/hello-world-gif-18564330"></p>
 <h1 align="center">Hi 👋, I'm Dario</h1>
-<h3 align="center">A Junior Full-stack developer</h3>
+<h3 align="center">A developer</h3>
 
 - 👨‍💻 My Code-learning at <a href="https://github.com/PiovaD/fs0422-Dario-Piovani">EPICODE</a> 
 
